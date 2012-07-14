@@ -3,6 +3,12 @@ Presentation
 
 This is a parser for MediaWiki's (MW) syntax. It's goal is to transform wikitext into an abstract syntax tree (AST) and then render this AST into various formats such as plain text and HTML.
 
+What you need first
+===================
+
+Get a pijnu release from http://spir.wikidot.com/pijnu-release, for example http://spir.wikidot.com/local--files/pijnu-release/pijnu-20090619.tar.gz
+then unpack it and rename the dir "mv pijnu-20090619 pijnu".
+
 
 How it works
 ============ 
